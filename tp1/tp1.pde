@@ -19,10 +19,10 @@ void draw (){
    // arriba
   beginShape();
   fill(19, 147, 135);
-  vertex(550, 31); //1
-  vertex(760, 31); //2
-  vertex(730, 50); //3
-  vertex(500, 50); //4
+  vertex(550, 31);
+  vertex(760, 31); 
+  vertex(730, 50); 
+  vertex(500, 50); 
   endShape();
   
   //lateral
@@ -49,9 +49,9 @@ void draw (){
  
   rect(575, 350, 20, 70);   //piernas
   rect(660, 350, 20, 70);
-  rect(550, 380, 35, 20, 28);   //piesitos
+  rect(550, 380, 35, 20, 28);   //piecitos
   rect(637, 380, 35, 20, 28);
-  rect(740, 234, 15, 155, 28); //brazo
+  rect(740, 234, 15, 155, 28); //brazos
   rect(515, 350, 15, 35, 0, 0, 28, 28);
 
   fill(22, 14, 118);
@@ -75,13 +75,13 @@ void draw (){
   fill(0);
   ellipse(570, 100, 10, 10);
   ellipse(660, 100, 10, 10); // ojos
-  ellipse(740, 113, 3, 3); // circ costados 1
-  ellipse( 750, 113, 3, 3); //2
-  ellipse(755, 124, 3, 3); //3
-  ellipse(752, 137, 3,3 ); //4
-  ellipse(741, 137,3 ,3);  //5
-  ellipse(734, 126, 3, 3);  //6
-  ellipse(745, 124, 3, 3);  //7
+  ellipse(740, 113, 3, 3); // circ costados 
+  ellipse( 750, 113, 3, 3); 
+  ellipse(755, 124, 3, 3); 
+  ellipse(752, 137, 3,3 ); 
+  ellipse(741, 137,3 ,3);  
+  ellipse(734, 126, 3, 3); 
+  ellipse(745, 124, 3, 3);  
   
   
   
