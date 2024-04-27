@@ -1,5 +1,5 @@
 //Luna Carabatti
-// comisión 3
+// tp´1 comisión 3
 PImage bmo1;
 
 void setup (){
